@@ -1,0 +1,6 @@
+Computing fastgreedy: modularity:  0.09047961857382669
+Computing infomap: modularity:  0.0
+Computing leading eigenvector: modularity:  0.08952215359352428
+Computing label propagation: modularity:  0.0
+Computing multilevel: modularity:  0.09047961857382669
+Computing leiden: modularity:  -0.0005802100635932994
