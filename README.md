@@ -41,7 +41,7 @@ Fonamentalment, ens ha servit per assolir nous coneixements en el camp de la bio
 
  També hem après a utilitzar COMPSs, un programming model desenvolupat al BSC, que un dels membres del nostre equip l'utilitza en el seu dia a dia laboral, i ens ha deleïtat explicant-nos-el.
 
-![Figura 8](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/769/595/datas/gallery.jpg)
+![Figura 8](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/769/656/datas/gallery.jpg)
 
 ## Quin és el futur del projecte.
 Es podria procedir en l'estudi de les dades intentant paral·lelitzar millor el procediment en el seu conjunt, ja que restringits pel temps només s'ha pogut fer una paral·lelització molt tímida.
